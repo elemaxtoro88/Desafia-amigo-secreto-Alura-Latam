@@ -53,7 +53,6 @@ function sortearAmigo() {
     let nombreSorteado = amigos[indice];
     //muestra el resultado en pantalla
     document.getElementById("resultado").innerText = "El amigo secreto es:" + nombreSorteado;
-
 }
 
 
