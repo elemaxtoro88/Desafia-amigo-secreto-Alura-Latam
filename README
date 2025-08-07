@@ -1,0 +1,50 @@
+
+# 🎁 Desafío - Amigo Secreto
+
+Este proyecto fue creado como parte del desafío de lógica de programación de Alura Latam.
+ Consiste en una aplicación simple en JavaScript que permite agregar nombres a una lista,
+  validar que no se repitan y finalmente sortear un “amigo secreto” entre ellos.
+
+## 🧠 Objetivo
+
+El principal objetivo del desafío es fortalecer mis habilidades en **lógica de programación**
+ mediante el uso de arrays, validaciones, manipulación del DOM y funciones básicas en JavaScript.
+
+
+## 🚀 Funcionalidades
+
+- ✅ Agregar amigos a una lista.
+- ✅ Validar que no se repitan nombres ni se ingresen campos vacíos.
+- ✅ Mostrar la lista de amigos actualizada.
+- ✅ Realizar el sorteo aleatorio de un amigo secreto.
+- ✅ Mostrar el resultado en pantalla.
+
+## 📜 Tecnologías usadas
+
+- HTML
+- CSS (básico)
+- JavaScript puro
+
+## 📂 Cómo usar
+
+1. Escribí un nombre en el campo de entrada y hacé clic en **"Agregar"**.
+2. Agregá al menos dos nombres para habilitar el sorteo.
+3. Hacé clicK en **"Sortear"** para conocer al amigo secreto seleccionado al azar.
+
+## 🌐 Demo del proyecto
+
+👉 Podés ver el proyecto en funcionamiento aquí:  
+[https://elemaxtoro88.github.io/Desafia-amigo-secreto-Alura-Latam/](https://elemaxtoro88.github.io/Desafia-amigo-secreto-Alura-Latam/)
+
+## 🧑‍💻 Desarrollado por
+
+- **Nombre:** Emanuel Matias Sanchez  
+- **Correo:** elemaxtoro@gmail.com
+
+## 📝 Licencia
+
+Este proyecto fue desarrollado con fines educativos como parte del curso de **Formación en Lógica de Programación** de **Alura Latam**.  
+Los derechos del desafío, contenido educativo y propuesta original pertenecen a **Alura Latam**.  
+El código fuente fue realizado por el alumno **Emanuel Mataas Sanchez** y puede ser reutilizado con fines educativos o personales, siempre y cuando se dé el debido crédito a Alura Latam como entidad formadora y se mantenga esta licencia.
+
+
